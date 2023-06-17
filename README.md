@@ -4,3 +4,4 @@
 2.Are there any missing values present?
 3.Are there any duplicate rows?
 4.What are the data types of the columns?
+5.Removing $ signs and , from specific column?
